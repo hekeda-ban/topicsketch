@@ -72,3 +72,6 @@ Update scipy to the latest version for best computational performance.
 
 ### Running the Program
 Once you implement your stream class, replace tweet_stream in main.py by your stream. Then run main.py. Debugging information will appear in the CLI. Detected topics will be saved in file results.txt.
+## 本程序目前可以跑通，调了好长时间，但是最终没有获取到results.txt文件里的内容，也就是最终没有检测出来的突发主题。
+## 希望给做这个方向的人士提供一些帮助。
+## 也希望有人可以调出结果。
